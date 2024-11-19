@@ -1,6 +1,6 @@
-# Futur développeuse IA
+## Futur développeuse en Intelligence Artificiel
+<img width="1185" alt="Capture d’écran 2024-11-18 à 16 11 49" src="https://github.com/user-attachments/assets/b7264869-783e-4920-b8d6-cd8f10236b3f">
 
-![IMG_4522](https://github.com/user-attachments/assets/924eece2-4bd9-4d7d-ad19-1715d40048b9)
 
 # Thomassin Marie
 
